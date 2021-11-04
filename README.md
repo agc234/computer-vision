@@ -7,3 +7,5 @@ The first three folders contain files that demonstrate Linear Algebra techniques
 - Stereo Reconstruction
 - Direct Linear Transform
 
+The **Least Squares** folder applies Least Squares Estimation on an image with a gradient to estimate the gradient function and remove it.
+The **Forward **
