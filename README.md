@@ -7,6 +7,10 @@ The folders below contain files that demonstrate Linear Algebra techniques used 
 - Stereo Reconstruction
 - Direct Linear Transform
 
+In additon, we use machinelearning algorithms for reinforcement learning, such as DQN and Q-learning.
+- CartPole DQN
+- Q-learning Maze Game
+
 Linear Algebra Folders:
 - The **Least Squares** folder applies Least Squares Estimation on an image with a gradient to estimate the gradient function and remove it.
 - The **Forward Facing Perspective** folder attempts to produce the forward facing perspective of angled rectangular faces using 4 points. Demonstrates the use of a Homography.
